@@ -2,7 +2,7 @@
 Checklist of features Apple announced but not available yet. Ordered by announcements.
 
 ## 2018-03-27 Apple Special Event
-In Lane Tech College Prep High School in Chicago, IL
+Lane Tech College Prep High School in Chicago, IL
 - [x] iWork apps support drawing and book creation - [Newsroom](https://www.apple.com/newsroom/2018/03/iwork-update-brings-drawing-book-creation-and-more-to-pages-numbers-and-keynote/)
 - [x] iPad 9.7' with Apple Pencil support - [Newsroom](https://www.apple.com/newsroom/2018/03/apple-introduces-new-9-7-inch-ipad-with-apple-pencil-support/)
 - [ ] Everyone Can Create(Preview) - [Newsroom](https://www.apple.com/newsroom/2018/03/apple-unveils-everyone-can-create-curriculum-to-spark-student-creativity/)
@@ -19,7 +19,7 @@ In Lane Tech College Prep High School in Chicago, IL
 - [x] HomeKit software authentication
 
 ## 2017-09-12 Apple Special Event
-In Steve Jobs Theater in Cupertino, CA
+Steve Jobs Theater in Cupertino, CA
 - [x] iPhone X
 - [x] iPhone 8 and 8 Plus
 - [x] Apple Watch Series 3
@@ -27,8 +27,8 @@ In Steve Jobs Theater in Cupertino, CA
 - [x] Amazon Prime on Apple TV
 - [ ] AirPower
 
-## 2017-06-05
-### WWDC 2017
+## 2017-06-05 WWDC 2017
+McEnery Convention Center in San Jose, CA
 - [x] iOS 11
 - [x] macOS High Sierra
 - [x] tvOS 11
