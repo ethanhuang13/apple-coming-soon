@@ -1,6 +1,12 @@
 # Apple's Coming Soon
 Checklist of features Apple announced but not available yet. Ordered by announcements.
 
+## 2018-04-02
+- [ ] Xcode 9.4 beta
+- [ ] iOS 11.4 beta
+- [ ] watchOS 4.3.1 beta
+- [ ] tvOS 11.4 beta
+
 ## 2018-03-27 Apple Special Event
 Lane Tech College Prep High School in Chicago, IL
 - [x] iWork apps support drawing and book creation - [Newsroom](https://www.apple.com/newsroom/2018/03/iwork-update-brings-drawing-book-creation-and-more-to-pages-numbers-and-keynote/)
@@ -10,6 +16,9 @@ Lane Tech College Prep High School in Chicago, IL
 
 ## 2018-03-13
 - [ ] WWDC 2018 - [Newsroom](https://www.apple.com/newsroom/2018/03/apples-worldwide-developers-conference-kicks-off-june-4-in-san-jose/)
+
+## 2018-02-15
+- [ ] Swift Playgrounds 2.1 beta
 
 ## 2018-01-24
 - [x] iOS 11.3(Preview) - [Newsroom](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/)
