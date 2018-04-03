@@ -1,5 +1,5 @@
 # Apple's Coming Soon
-Checklist of features Apple announced but not available yet. Ordered by announcements.
+Checklist of products/features Apple announced but not available or still in beta. Ordered by announcements.
 
 ## 2018-04-02
 - [ ] Xcode 9.4 beta
@@ -25,7 +25,6 @@ Lane Tech College Prep High School in Chicago, IL
 - [x] ARKit 1.5
 - [x] Batteries and Performance
 - [x] Helath Records -[Newsroom](https://www.apple.com/newsroom/2018/01/apple-announces-effortless-solution-bringing-health-records-to-iPhone/)
-- [x] HomeKit software authentication
 
 ## 2017-09-12 Apple Special Event
 Steve Jobs Theater in Cupertino, CA
@@ -47,6 +46,7 @@ McEnery Convention Center in San Jose, CA
 - [x] iPad Pro 10.5' and updated 12.9' models
 - [x] Apple Pay Cash
 - [x] Business Chat
+- [x] HomeKit software authentication
 - [ ] iMessage in iCloud
 - [ ] AirPlay 2
 - [ ] Stereo sound with 2 HomePods
