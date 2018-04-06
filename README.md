@@ -50,3 +50,6 @@ McEnery Convention Center in San Jose, CA
 - [ ] iMessage in iCloud
 - [ ] AirPlay 2
 - [ ] Stereo sound with 2 HomePods
+
+## 2017-04-04
+- [ ] Mac Pro
