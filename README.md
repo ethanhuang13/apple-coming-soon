@@ -1,11 +1,18 @@
 # Apple's Coming Soon
 Checklist of products/features Apple announced but not available or still in beta. Ordered by announcements.
 
+## Links
+- [Newsroom](https://www.apple.com/newsroom/) and [archive](https://www.apple.com/newsroom/archive/)
+- [Downloads](https://developer.apple.com/download/) and [more](https://developer.apple.com/download/more/) - Apple Developer
+
+## 2018-04-05
+- [ ] Final Cut Pro X 10.4.1: ProRes RAW and Closed Captioning Tools - [Newsroom](https://www.apple.com/newsroom/2018/04/final-cut-pro-x-update-introduces-prores-raw-and-advanced-closed-captioning/)
+
 ## 2018-04-02
-- [ ] Xcode 9.4 beta
-- [ ] iOS 11.4 beta
-- [ ] watchOS 4.3.1 beta
-- [ ] tvOS 11.4 beta
+- [ ] Xcode 9.4 (beta)
+- [ ] iOS 11.4 (beta)
+- [ ] watchOS 4.3.1 (beta)
+- [ ] tvOS 11.4 (beta)
 
 ## 2018-03-27 Apple Special Event
 Lane Tech College Prep High School in Chicago, IL
