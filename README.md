@@ -5,6 +5,9 @@ Checklist of products/features Apple announced but not available or still in bet
 - [Newsroom](https://www.apple.com/newsroom/) and [archive](https://www.apple.com/newsroom/archive/)
 - [Downloads](https://developer.apple.com/download/) and [more](https://developer.apple.com/download/more/) - Apple Developer
 
+## 2018-04-09
+- [x] iPhone 8 Special Edition (RED)
+
 ## 2018-04-05
 - [ ] Final Cut Pro X 10.4.1: ProRes RAW and Closed Captioning Tools - [Newsroom](https://www.apple.com/newsroom/2018/04/final-cut-pro-x-update-introduces-prores-raw-and-advanced-closed-captioning/)
 
