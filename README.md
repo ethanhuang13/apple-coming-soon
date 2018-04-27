@@ -5,6 +5,9 @@ Checklist of products/features Apple announced but not available or still in bet
 - [Newsroom](https://www.apple.com/newsroom/) and [archive](https://www.apple.com/newsroom/archive/)
 - [Downloads](https://developer.apple.com/download/) and [more](https://developer.apple.com/download/more/) - Apple Developer
 
+## 2018-04-27
+- Apple discontinued AirPort router line, including Express, Extreme, and Time Capsule
+
 ## 2018-04-09
 - [x] iPhone 8 Special Edition (RED)
 
