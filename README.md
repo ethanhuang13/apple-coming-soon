@@ -13,6 +13,9 @@ Checklist of products/features Apple announced but not available or still in bet
 - [x] Xcode 9.4 - [Release Notes](https://developer.apple.com/go/?id=xcode-9.4-rn)
 - [x] macOS Server 5.6
 
+## 2018-04-27
+- Apple discontinued AirPort router line, including Express, Extreme, and Time Capsule
+
 ## 2018-04-15
 - [ ] macOS High Sierra 10.13.5 beta 5
 
