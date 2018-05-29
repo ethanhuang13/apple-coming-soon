@@ -5,6 +5,17 @@ Checklist of products/features Apple announced but not available or still in bet
 - [Newsroom](https://www.apple.com/newsroom/) and [archive](https://www.apple.com/newsroom/archive/)
 - [Downloads](https://developer.apple.com/download/) and [more](https://developer.apple.com/download/more/) - Apple Developer
 
+## 2018-05-29
+- [x] iOS 11.4 with AirPlay 2, HomePod stereo pairs, Message in iCloud
+- [x] watchOS 4.3.1
+- [x] tvOS 11.4
+- [ ] HomePod in Canada, France and Germany - [Newsroom](https://www.apple.com/newsroom/2018/05/ios-11-4-brings-stereo-pairs-and-multi-room-audio-with-airplay-2/)
+- [x] Xcode 9.4 - [Release Notes](https://developer.apple.com/go/?id=xcode-9.4-rn)
+- [x] macOS Server 5.6
+
+## 2018-04-15
+- [ ] macOS High Sierra 10.13.5 beta 5
+
 ## 2018-04-09
 - [x] iPhone 8 Special Edition (RED)
 
@@ -12,10 +23,10 @@ Checklist of products/features Apple announced but not available or still in bet
 - [ ] Final Cut Pro X 10.4.1: ProRes RAW and Closed Captioning Tools - [Newsroom](https://www.apple.com/newsroom/2018/04/final-cut-pro-x-update-introduces-prores-raw-and-advanced-closed-captioning/)
 
 ## 2018-04-02
-- [ ] Xcode 9.4 (beta)
-- [ ] iOS 11.4 (beta)
-- [ ] watchOS 4.3.1 (beta)
-- [ ] tvOS 11.4 (beta)
+- [x] Xcode 9.4 (beta)
+- [x] iOS 11.4 (beta)
+- [x] watchOS 4.3.1 (beta)
+- [x] tvOS 11.4 (beta)
 
 ## 2018-03-27 Apple Special Event
 Lane Tech College Prep High School in Chicago, IL
@@ -57,9 +68,9 @@ McEnery Convention Center in San Jose, CA
 - [x] Apple Pay Cash
 - [x] Business Chat
 - [x] HomeKit software authentication
-- [ ] iMessage in iCloud
-- [ ] AirPlay 2
-- [ ] Stereo sound with 2 HomePods
+- [x] Message in iCloud
+- [x] AirPlay 2 multi-room support
+- [x] HomePod stereo pairs
 
 ## 2017-04-04
 - [ ] Mac Pro
