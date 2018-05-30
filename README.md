@@ -5,6 +5,13 @@ Checklist of products/features Apple announced but not available or still in bet
 - [Newsroom](https://www.apple.com/newsroom/) and [archive](https://www.apple.com/newsroom/archive/)
 - [Downloads](https://developer.apple.com/download/) and [more](https://developer.apple.com/download/more/) - Apple Developer
 
+## 2018-05-30
+- [ ] macOS High Sierra 10.13.6 beta - [Release Notes](https://developer.apple.com/go/?id=macos-10.13.6-beta-rn)
+- [ ] iOS 11.4.1 beta - [Release Notes](https://developer.apple.com/go/?id=ios-11.4.1-beta-rn)
+- [ ] watchOS 4.3.2 beta - [Release Notes](https://developer.apple.com/go/?id=watchos-4.3.2-sdk-rn)
+- [ ] tvOS 11.4.1 beta - [Release Notes](https://developer.apple.com/go/?id=tvos-11.4.1-sdk-rn)
+- [ ] Apple Configurator 2.7.1 beta - [Release Notes](https://developer.apple.com/go/?id=apple-configurator-2.7.1-beta-rn)
+
 ## 2018-05-29
 - [x] iOS 11.4 with AirPlay 2, HomePod stereo pairs, Message in iCloud
 - [x] watchOS 4.3.1
