@@ -5,6 +5,14 @@ Checklist of products/features Apple announced but not available or still in bet
 - [Newsroom](https://www.apple.com/newsroom/) and [archive](https://www.apple.com/newsroom/archive/)
 - [Downloads](https://developer.apple.com/download/) and [more](https://developer.apple.com/download/more/) - Apple Developer
 
+## 2018-06-04
+- [ ] Xcode 10 beta - [Release Notes](https://developer.apple.com/go/?id=xcode-10-beta-rn)
+- [ ] macOS Mojave 10.14 beta - [Release Notes](https://developer.apple.com/go/?id=macos-10.14-beta-rn) - [Preview](https://www.apple.com/macos/mojave-preview/) - [Newsroom](https://www.apple.com/newsroom/2018/06/apple-introduces-macos-mojave/)
+- [ ] iOS 12 beta - [Release Notes](https://developer.apple.com/go/?id=ios-12-beta-rn) - [Preview](https://www.apple.com/ios/ios-12-preview/) - [Newsroom](https://www.apple.com/newsroom/2018/06/apple-previews-ios-12/)
+- [ ] watchOS 5 beta - [Release Notes](https://developer.apple.com/go/?id=watchos-5-sdk-rn) - [Newsroom](https://www.apple.com/newsroom/2018/06/watchos-5-adds-powerful-activity-and-communications-features-to-apple-watch/)
+- [ ] tvOS 12 beta - [Release Notes](https://developer.apple.com/go/?id=tvos-12-sdk-rn) - [Newsroom](https://www.apple.com/newsroom/2018/06/apple-tv-4k-delivers-highest-quality-cinematic-experience-with-tvos-12/)
+- [ ] ARKit 2 - [Newsroom](https://www.apple.com/newsroom/2018/06/apple-unveils-arkit-2/)
+
 ## 2018-05-30
 - [ ] macOS High Sierra 10.13.6 beta - [Release Notes](https://developer.apple.com/go/?id=macos-10.13.6-beta-rn)
 - [ ] iOS 11.4.1 beta - [Release Notes](https://developer.apple.com/go/?id=ios-11.4.1-beta-rn)
@@ -24,13 +32,13 @@ Checklist of products/features Apple announced but not available or still in bet
 - Apple discontinued AirPort router line, including Express, Extreme, and Time Capsule
 
 ## 2018-04-15
-- [ ] macOS High Sierra 10.13.5 beta 5
+- [x] macOS High Sierra 10.13.5 beta 5
 
 ## 2018-04-09
 - [x] iPhone 8 Special Edition (RED)
 
 ## 2018-04-05
-- [ ] Final Cut Pro X 10.4.1: ProRes RAW and Closed Captioning Tools - [Newsroom](https://www.apple.com/newsroom/2018/04/final-cut-pro-x-update-introduces-prores-raw-and-advanced-closed-captioning/)
+- [x] Final Cut Pro X 10.4.1: ProRes RAW and Closed Captioning Tools - [Newsroom](https://www.apple.com/newsroom/2018/04/final-cut-pro-x-update-introduces-prores-raw-and-advanced-closed-captioning/)
 
 ## 2018-04-02
 - [x] Xcode 9.4 (beta)
@@ -42,14 +50,14 @@ Checklist of products/features Apple announced but not available or still in bet
 Lane Tech College Prep High School in Chicago, IL
 - [x] iWork apps support drawing and book creation - [Newsroom](https://www.apple.com/newsroom/2018/03/iwork-update-brings-drawing-book-creation-and-more-to-pages-numbers-and-keynote/)
 - [x] iPad 9.7' with Apple Pencil support - [Newsroom](https://www.apple.com/newsroom/2018/03/apple-introduces-new-9-7-inch-ipad-with-apple-pencil-support/)
-- [ ] Everyone Can Create(Preview) - [Newsroom](https://www.apple.com/newsroom/2018/03/apple-unveils-everyone-can-create-curriculum-to-spark-student-creativity/)
-- [ ] Schoolwork
+- [x] Everyone Can Create(Preview) - [Newsroom](https://www.apple.com/newsroom/2018/03/apple-unveils-everyone-can-create-curriculum-to-spark-student-creativity/)
+- [ ] [Schoolwork](https://www.apple.com/education/teaching-tools/)
 
 ## 2018-03-13
-- [ ] WWDC 2018 - [Newsroom](https://www.apple.com/newsroom/2018/03/apples-worldwide-developers-conference-kicks-off-june-4-in-san-jose/)
+- [x] WWDC 2018 - [Newsroom](https://www.apple.com/newsroom/2018/03/apples-worldwide-developers-conference-kicks-off-june-4-in-san-jose/)
 
 ## 2018-02-15
-- [ ] Swift Playgrounds 2.1 beta
+- [x] Swift Playgrounds 2.1 beta - [Release Notes](https://developer.apple.com/swift-playgrounds/release-notes/)
 
 ## 2018-01-24
 - [x] iOS 11.3(Preview) - [Newsroom](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/)
